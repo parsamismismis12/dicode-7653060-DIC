@@ -1,0 +1,1 @@
+vless://29ca503d-e6b8-4509-b666-48133f450857@104.18.36.192:2087?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#t.me/parsa-1
